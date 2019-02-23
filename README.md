@@ -1,11 +1,10 @@
-Android Data Binding Codelab
+Week 7 Data Binding CodeLab
 =============================================
-Follow the codelab in
-
-https://github.com/googlecodelabs/android-databinding
 
 
-License
---------
+Activity Screenshot
+-----------
 
-Copyright 2018 Google LLC. Licensed under the Apache License, Version 2.0.
+
+
+![alt text](https://github.com/elufire/android-databinding-master/blob/master/activity.png)
